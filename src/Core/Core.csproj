@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>BtcLight.Core</RootNamespace>
+    <AssemblyName>BtcLight.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
